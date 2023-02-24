@@ -4,7 +4,7 @@ class HomeActivities:
     now = datetime.now(timezone.utc).astimezone()
     results = [{
       'uuid': '68f126b0-1ceb-4a33-88be-d90fa7109eee',
-      'handle':  'Andrew Brown',
+      'handle':  'Jose Manuel',
       'message': 'Cloud is fun!',
       'created_at': (now - timedelta(days=2)).isoformat(),
       'expires_at': (now + timedelta(days=5)).isoformat(),
@@ -24,7 +24,7 @@ class HomeActivities:
     },
     {
       'uuid': '66e12864-8c26-4c3a-9658-95a10f8fea67',
-      'handle':  'Worf',
+      'handle':  'Manuel Jose',
       'message': 'I am out of prune juice',
       'created_at': (now - timedelta(days=7)).isoformat(),
       'expires_at': (now + timedelta(days=9)).isoformat(),
@@ -33,7 +33,7 @@ class HomeActivities:
     },
     {
       'uuid': '248959df-3079-4947-b847-9e0892d1bab4',
-      'handle':  'Garek',
+      'handle':  'Jose Miguel',
       'message': 'My dear doctor, I am just simple tailor',
       'created_at': (now - timedelta(hours=1)).isoformat(),
       'expires_at': (now + timedelta(hours=12)).isoformat(),
