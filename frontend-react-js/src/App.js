@@ -21,7 +21,7 @@ const router = createBrowserRouter([
     element: <HomeFeedPage />
   },
   {
-    path: "notificationts",
+    path: "notifications",
     element: <NotificationsFeedPage />
   },
   {
