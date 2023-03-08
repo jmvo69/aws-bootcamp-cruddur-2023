@@ -2,7 +2,7 @@ import './App.css';
 
 import HomeFeedPage from './pages/HomeFeedPage';
 import UserFeedPage from './pages/UserFeedPage';
-import NotificationsFeedPage from './pages/NotificationsFeedPage.js';
+import NotificationsFeedPage from './pages/NotificationsFeedPage';
 import SignupPage from './pages/SignupPage';
 import SigninPage from './pages/SigninPage';
 import RecoverPage from './pages/RecoverPage';
